@@ -13,6 +13,7 @@ Será una oportunidad única para aprender cómo llevar la infraestructura en la
 ✨ Ven a inspirarte, conectar con la comunidad y ser parte de este gran encuentro tech en Guatemala. ¡No te lo puedes perder!
 
 #AWS #CommunityDay #Guatemala #Serverless #IaC #SST #CloudComputing #Comunidad
+
 --
 
 ## TARDE Jorge Figueroa
