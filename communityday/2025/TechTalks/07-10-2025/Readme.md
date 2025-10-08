@@ -7,7 +7,7 @@ Este 18 de octubre en la Universidad Rafael Landívar, acompáñanos a aprender 
 
 📍 Lugar: Universidad Rafael Landívar
 🗓️ Fecha: 18/octubre/2025
-🌐 Consulta la agenda: awscommunityday.gt
+🌐 Consulta la agenda: awscommunityday.gt para mas detalles
 
 🔹 Un evento imperdible para la comunidad cloud en Guatemala.
 🔹 Conoce, aprende y conéctate con expertos en AWS y en tecnologías de la nube.
@@ -26,7 +26,7 @@ Este 18 de octubre en la Universidad Rafael Landívar llega a Guatemala Maryury 
 
 📍 Lugar: Universidad Rafael Landívar
 🗓️ Fecha: 18/octubre/2025
-🌐 Consulta la agenda: awscommunityday.gt
+🌐 Consulta la agenda en awscommunityday.gt para mas detalles
 
 Un espacio diseñado para fortalecer relaciones profesionales, fomentar la colaboración y potenciar el talento en el ecosistema cloud de Guatemala.
 
@@ -44,7 +44,7 @@ Este 18 de octubre en la Universidad Rafael Landívar, acompáñanos en la charl
 
 📍 Lugar: Universidad Rafael Landívar
 🗓️ Fecha: 18/octubre/2025
-🌐 Más información: awscommunityday.gt
+🌐 Consulta la agenda en awscommunityday.gt para mas detalles
 
 Una oportunidad única para explorar nuevas opciones en la gestión de infraestructura cloud y descubrir cómo Nomad puede transformar la forma en que administramos aplicaciones en AWS.
 
