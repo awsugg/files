@@ -1,7 +1,7 @@
 
 # Mañana Jose Figueroa
 
-🚀📊 ¡Menos de una semana para el AWS Community Day Guatemala 2025! ☁️🇬🇹
+🚀📊 ¡Comienza la cuenta regresiva al AWS Community Day Guatemala 2025!
 
 ¿Cómo lograr proyectos más eficientes, precisos y escalables? 
 
